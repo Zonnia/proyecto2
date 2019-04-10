@@ -1,0 +1,12 @@
+{
+   "db.user": "root",
+   "db.pass": "",
+   "db.host": "localhost",
+   "medusa.cache": false,
+   "medusa.cache.life": 300,
+   "views.cache": false,
+   "views.cache.life": 300,
+
+   "upload.dir": "static/uploads/"  
+
+}
