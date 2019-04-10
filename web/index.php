@@ -1,6 +1,6 @@
 <?php
 
-require '../autoload.php'; //permite utilizar enrrutamiento
+require '../autoload.php'; //permitir utilizar enrrutamiento
 
 use \Bitphp\Route;
 use \Bitphp\Layout\Medusa;
